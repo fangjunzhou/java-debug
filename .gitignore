@@ -38,3 +38,6 @@ jdt-language-server-latest.tar.gz
 jdtls/
 
 !.mvn/wrapper/maven-wrapper.jar
+
+# Nix artifacts
+result/
